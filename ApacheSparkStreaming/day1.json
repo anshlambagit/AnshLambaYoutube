@@ -1,0 +1,36 @@
+{
+  "order_id": "ORD1001",
+  "timestamp": "2025-06-01T10:15:00Z",
+  "customer": {
+    "customer_id": 501,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "address": {
+      "city": "Toronto",
+      "postal_code": "M5H 2N2",
+      "country": "Canada"
+    }
+  },
+  "items": [
+    {
+      "item_id": "I100",
+      "product_name": "Wireless Mouse",
+      "quantity": 2,
+      "price": 25.99
+    },
+    {
+      "item_id": "I101",
+      "product_name": "USB-C Adapter",
+      "quantity": 1,
+      "price": 15.49
+    }
+  ],
+  "payment": {
+    "method": "Credit Card",
+    "transaction_id": "TXN7890"
+  },
+  "metadata": [
+    {"key": "campaign", "value": "back_to_school"},
+    {"key": "channel", "value": "email"}
+  ]
+}

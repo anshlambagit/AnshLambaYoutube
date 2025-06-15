@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD1002",
+  "timestamp": "2025-06-01T10:30:00Z",
+  "customer": {
+    "customer_id": 502,
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "address": {
+      "city": "Vancouver",
+      "postal_code": "V5K 0A1",
+      "country": "Canada"
+    }
+  },
+  "items": [
+    {
+      "item_id": "I102",
+      "product_name": "Bluetooth Keyboard",
+      "quantity": 1,
+      "price": 45.00
+    }
+  ],
+  "payment": {
+    "method": "PayPal",
+    "transaction_id": "TXN7891"
+  },
+  "metadata": [
+    {"key": "campaign", "value": "cyber_monday"},
+    {"key": "channel", "value": "affiliate"}
+  ]
+}

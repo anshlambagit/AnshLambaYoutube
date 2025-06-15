@@ -1,0 +1,42 @@
+{
+  "order_id": "ORD1003",
+  "timestamp": "2025-06-01T11:00:00Z",
+  "customer": {
+    "customer_id": 503,
+    "name": "David Lee",
+    "email": "david@example.com",
+    "address": {
+      "city": "Calgary",
+      "postal_code": "T2P 1G1",
+      "country": "Canada"
+    }
+  },
+  "items": [
+    {
+      "item_id": "I103",
+      "product_name": "Noise Cancelling Headphones",
+      "quantity": 1,
+      "price": 199.99
+    },
+    {
+      "item_id": "I104",
+      "product_name": "Laptop Stand",
+      "quantity": 1,
+      "price": 29.99
+    },
+    {
+      "item_id": "I105",
+      "product_name": "HDMI Cable",
+      "quantity": 2,
+      "price": 10.00
+    }
+  ],
+  "payment": {
+    "method": "Debit Card",
+    "transaction_id": "TXN7892"
+  },
+  "metadata": [
+    {"key": "referrer", "value": "instagram"},
+    {"key": "coupon", "value": "WELCOME10"}
+  ]
+}
