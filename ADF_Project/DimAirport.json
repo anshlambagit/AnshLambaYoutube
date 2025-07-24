@@ -1,0 +1,62 @@
+[
+    {
+        "airport_id": 1,
+        "airport_name": "JFK International",
+        "city": "New York",
+        "country": "USA"
+    },
+    {
+        "airport_id": 2,
+        "airport_name": "Heathrow",
+        "city": "London",
+        "country": "UK"
+    },
+    {
+        "airport_id": 3,
+        "airport_name": "Chhatrapati Shivaji",
+        "city": "Mumbai",
+        "country": "India"
+    },
+    {
+        "airport_id": 4,
+        "airport_name": "Beijing Capital",
+        "city": "Beijing",
+        "country": "China"
+    },
+    {
+        "airport_id": 5,
+        "airport_name": "Pearson Intl",
+        "city": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "airport_id": 6,
+        "airport_name": "Charles de Gaulle",
+        "city": "Paris",
+        "country": "France"
+    },
+    {
+        "airport_id": 7,
+        "airport_name": "Haneda",
+        "city": "Tokyo",
+        "country": "Japan"
+    },
+    {
+        "airport_id": 8,
+        "airport_name": "Dubai Intl",
+        "city": "Dubai",
+        "country": "UAE"
+    },
+    {
+        "airport_id": 9,
+        "airport_name": "Frankfurt",
+        "city": "Frankfurt",
+        "country": "Germany"
+    },
+    {
+        "airport_id": 10,
+        "airport_name": "Sydney Airport",
+        "city": "Sydney",
+        "country": "Australia"
+    }
+]
