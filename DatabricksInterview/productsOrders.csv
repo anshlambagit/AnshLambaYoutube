@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,Stock
+P001,Laptop,Electronics,1500.0,50
+P002,Mouse,Electronics,25.0,200
+P003,Keyboard,Electronics,45.0,150
+P004,Monitor,Electronics,200.0,75
+P005,Headphones,Electronics,75.0,120
