@@ -29,6 +29,12 @@
         "quantity": 1,
         "price_per_unit": 199.75
       }
+    ],
+    "delivery_updates": [
+      "Order Placed",
+      "Packed",
+      "Shipped",
+      "Out for Delivery"
     ]
   },
   {
@@ -55,6 +61,11 @@
         "quantity": 1,
         "price_per_unit": 89.99
       }
+    ],
+    "delivery_updates": [
+      "Order Placed",
+      "Packed",
+      "Shipped"
     ]
   }
 ]
