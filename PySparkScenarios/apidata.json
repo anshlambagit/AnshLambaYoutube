@@ -1,0 +1,60 @@
+[
+  {
+    "order_id": "ORD001",
+    "order_timestamp": "2025-08-15T10:45:30Z",
+    "customer": {
+      "customer_id": "CUST101",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada"
+      }
+    },
+    "payment": {
+      "method": "Credit Card",
+      "amount": 250.75,
+      "currency": "CAD"
+    },
+    "items": [
+      {
+        "item_id": "ITEM1001",
+        "product_name": "Wireless Mouse",
+        "quantity": 2,
+        "price_per_unit": 25.50
+      },
+      {
+        "item_id": "ITEM1002",
+        "product_name": "Mechanical Keyboard",
+        "quantity": 1,
+        "price_per_unit": 199.75
+      }
+    ]
+  },
+  {
+    "order_id": "ORD002",
+    "order_timestamp": "2025-08-15T11:10:15Z",
+    "customer": {
+      "customer_id": "CUST102",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "location": {
+        "city": "Vancouver",
+        "country": "Canada"
+      }
+    },
+    "payment": {
+      "method": "PayPal",
+      "amount": 89.99,
+      "currency": "CAD"
+    },
+    "items": [
+      {
+        "item_id": "ITEM1003",
+        "product_name": "USB-C Hub",
+        "quantity": 1,
+        "price_per_unit": 89.99
+      }
+    ]
+  }
+]
