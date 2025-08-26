@@ -1,0 +1,5 @@
+supplier_sk,supplier_code,supplier_name,country,contact_email
+1,SUP-ACME,Acme Foods Co.,USA,acme@example.com
+2,SUP-FRESH,FreshGrowers Ltd.,Canada,fresh@example.com
+3,SUP-TECH,Techtronics Inc.,China,techtronics@example.com
+4,SUP-HOME,HomeEase Corp.,USA,homeease@example.com

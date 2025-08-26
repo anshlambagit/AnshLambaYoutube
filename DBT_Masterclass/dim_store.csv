@@ -1,0 +1,6 @@
+store_sk,store_code,store_name,city,state_province,region,country,open_date,sq_ft
+1,MEG-NY-001,MegaMart Manhattan,New York,NY,Northeast,USA,2018-04-12,12000
+2,MEG-NY-002,MegaMart Brooklyn,Brooklyn,NY,Northeast,USA,2019-06-20,9000
+3,MEG-TX-001,MegaMart Austin,Austin,TX,South,USA,2020-03-15,11000
+4,MEG-CA-001,MegaMart San Jose,San Jose,CA,West,USA,2021-09-30,10000
+5,MEG-ON-001,MegaMart Toronto,Toronto,ON,Canada East,Canada,2022-05-10,9500

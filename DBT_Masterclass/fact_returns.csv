@@ -1,0 +1,216 @@
+sales_id,date_sk,store_sk,product_sk,returned_qty,return_reason,refund_amount
+4078,51,3,7,2,Damaged,50.0
+1500,18,3,1,2,Late Delivery,4.92
+133,2,4,9,2,Damaged,18.34
+1729,22,1,1,1,Damaged,2.48
+2081,25,4,1,1,Defective,2.5
+1150,15,3,7,3,Defective,75.0
+3775,46,1,1,1,Wrong Item,2.47
+1431,18,3,2,1,Damaged,3.14
+4986,62,1,6,1,Damaged,180.28
+1426,17,3,8,1,Damaged,7.48
+3648,45,5,1,1,Late Delivery,2.46
+80,2,3,3,1,Wrong Item,2.94
+6763,86,1,9,1,Changed Mind,8.63
+4454,55,3,4,2,Wrong Item,10.72
+712,9,3,6,1,Damaged,174.16
+5171,65,3,9,1,Defective,8.63
+6416,81,1,8,1,Late Delivery,7.34
+6863,87,2,3,1,Damaged,3.05
+6035,76,1,1,1,Changed Mind,2.46
+4869,60,1,4,2,Damaged,10.66
+3438,43,4,8,1,Damaged,7.77
+3821,47,4,4,2,Defective,11.02
+3716,46,1,8,1,Wrong Item,7.5
+458,5,1,3,1,Defective,2.96
+4889,60,3,4,1,Changed Mind,5.34
+5499,69,5,8,2,Wrong Item,14.86
+436,5,2,9,1,Defective,8.61
+5741,72,1,8,1,Defective,7.15
+4358,53,2,2,1,Damaged,3.08
+3766,46,2,3,1,Damaged,2.97
+6219,79,1,6,1,Damaged,174.63
+577,8,4,10,1,Changed Mind,451.23
+6309,80,5,6,1,Wrong Item,180.28
+2474,31,2,2,1,Changed Mind,3.24
+1175,15,2,4,1,Changed Mind,5.7
+5130,65,2,6,1,Damaged,177.18
+843,10,2,2,1,Defective,3.15
+2674,32,4,5,1,Wrong Item,292.1
+5285,66,1,10,1,Damaged,458.86
+102,2,2,1,1,Defective,2.42
+2549,31,4,8,2,Changed Mind,14.66
+6363,80,2,5,1,Wrong Item,301.81
+3102,38,2,10,1,Damaged,446.59
+2771,34,4,9,1,Wrong Item,8.86
+4047,50,1,10,1,Damaged,444.84
+6901,87,2,4,1,Wrong Item,5.25
+5247,66,5,2,1,Wrong Item,3.24
+6047,76,2,5,1,Defective,295.59
+4016,50,4,8,1,Wrong Item,7.6
+6570,82,5,10,1,Changed Mind,443.08
+510,6,5,4,2,Damaged,11.38
+4032,50,4,8,3,Late Delivery,22.05
+3314,41,5,3,2,Defective,5.98
+5840,73,4,9,3,Wrong Item,27.21
+2300,29,2,4,2,Damaged,11.26
+3129,39,1,9,1,Wrong Item,9.02
+1993,25,4,7,1,Late Delivery,24.84
+2182,27,1,10,1,Wrong Item,448.63
+2167,27,2,5,1,Damaged,301.1
+2760,34,3,6,1,Damaged,177.93
+2329,29,4,8,2,Damaged,15.14
+1845,23,5,8,1,Changed Mind,7.47
+4064,51,4,4,2,Damaged,11.04
+5857,74,5,6,1,Defective,176.96
+1872,24,5,1,1,Late Delivery,2.49
+4097,51,1,10,1,Changed Mind,439.37
+3858,47,2,7,1,Late Delivery,24.44
+231,3,4,10,1,Defective,449.77
+626,8,1,2,1,Late Delivery,3.01
+1741,22,4,10,1,Changed Mind,456.89
+2717,33,5,8,1,Late Delivery,7.47
+5762,73,5,8,1,Damaged,7.42
+1407,17,2,10,1,Wrong Item,443.77
+4293,53,5,9,1,Damaged,9.05
+4249,53,5,6,1,Damaged,173.66
+5011,62,1,5,1,Defective,299.75
+2228,28,3,1,1,Changed Mind,2.52
+409,5,3,2,1,Wrong Item,3.2
+5910,74,1,10,1,Late Delivery,450.5
+2358,30,5,5,1,Wrong Item,294.82
+6583,83,4,3,2,Defective,5.96
+3856,47,4,3,1,Defective,2.97
+3359,42,2,8,1,Changed Mind,7.39
+3380,42,1,3,1,Defective,3.0
+4221,52,3,10,1,Damaged,446.0
+801,10,5,8,1,Defective,7.66
+6101,77,4,10,1,Damaged,462.91
+4394,54,2,1,1,Defective,2.52
+4254,53,2,1,1,Late Delivery,2.55
+4315,53,3,3,2,Defective,6.08
+1489,18,2,2,2,Changed Mind,6.32
+1929,24,3,1,1,Defective,2.53
+88,2,3,7,1,Defective,24.97
+2663,32,2,3,4,Late Delivery,11.52
+6819,86,2,8,1,Wrong Item,7.43
+3019,38,2,8,2,Defective,15.28
+5372,67,4,3,1,Changed Mind,2.98
+1796,23,5,2,2,Changed Mind,6.5
+5991,75,4,5,1,Defective,308.08
+2099,25,1,4,1,Wrong Item,5.48
+1394,17,4,9,1,Changed Mind,9.18
+1618,20,2,10,1,Late Delivery,451.03
+6781,86,2,3,1,Late Delivery,3.0
+1673,21,1,1,1,Wrong Item,2.51
+252,3,5,10,1,Damaged,437.57
+2267,28,1,10,1,Late Delivery,444.17
+2307,29,1,2,1,Changed Mind,3.12
+866,11,5,7,1,Wrong Item,25.12
+4333,53,4,7,2,Damaged,50.06
+2796,34,3,2,4,Damaged,13.16
+2790,34,4,5,1,Defective,302.06
+6944,88,5,8,4,Late Delivery,29.28
+178,3,4,8,1,Wrong Item,7.6
+2834,35,4,8,1,Damaged,7.42
+2442,31,3,1,3,Wrong Item,7.53
+2649,32,4,10,1,Damaged,452.31
+3781,46,2,1,2,Defective,5.08
+3541,44,4,8,2,Changed Mind,15.0
+4787,59,1,10,1,Wrong Item,453.92
+743,10,3,4,3,Wrong Item,16.08
+3259,40,5,9,3,Defective,27.93
+186,3,2,6,1,Wrong Item,183.5
+4539,56,1,6,1,Wrong Item,167.31
+4464,55,1,10,1,Damaged,463.47
+928,11,3,10,1,Late Delivery,457.38
+2572,32,3,10,1,Defective,446.23
+5453,68,4,10,1,Changed Mind,446.03
+333,4,4,8,1,Wrong Item,7.46
+96,2,3,10,1,Late Delivery,434.9
+2684,33,4,6,1,Late Delivery,178.25
+4931,61,3,5,1,Damaged,296.7
+3241,40,1,10,1,Changed Mind,444.62
+2269,28,2,3,1,Changed Mind,2.84
+4113,51,2,8,3,Defective,22.65
+6180,78,5,6,1,Defective,173.16
+240,3,3,10,1,Damaged,455.57
+6272,79,5,8,1,Late Delivery,7.59
+394,5,3,6,1,Defective,178.58
+2078,25,2,9,1,Late Delivery,8.98
+4093,51,1,1,1,Damaged,2.47
+3012,37,5,10,1,Wrong Item,448.33
+3863,47,2,3,4,Changed Mind,12.04
+322,4,2,10,1,Damaged,455.18
+1607,20,3,10,1,Changed Mind,451.3
+2118,26,5,1,1,Changed Mind,2.5
+3788,46,1,6,1,Wrong Item,177.5
+1922,24,3,7,1,Late Delivery,24.95
+3803,46,2,6,1,Changed Mind,180.7
+6992,88,1,1,1,Late Delivery,2.46
+4472,55,4,1,2,Wrong Item,5.2
+6591,83,1,2,1,Wrong Item,3.22
+5179,65,5,8,1,Changed Mind,7.43
+1373,17,4,9,1,Wrong Item,9.02
+3943,49,2,6,1,Changed Mind,182.46
+20,1,2,8,1,Defective,7.4
+790,10,4,8,1,Damaged,7.32
+6963,88,5,9,1,Damaged,8.7
+3614,45,4,2,1,Defective,3.15
+2070,25,2,2,2,Changed Mind,6.32
+6918,87,4,8,1,Defective,7.73
+6689,84,3,8,3,Defective,21.3
+1439,18,5,9,1,Late Delivery,8.78
+4258,53,5,3,3,Defective,8.67
+4826,60,5,7,1,Defective,23.98
+1587,19,5,9,1,Damaged,8.91
+3826,47,3,1,2,Defective,5.0
+2116,26,1,8,1,Damaged,7.2
+983,12,1,4,2,Damaged,10.88
+473,6,3,1,1,Changed Mind,2.44
+6308,80,3,9,1,Late Delivery,9.04
+6946,88,5,4,1,Defective,5.57
+6753,86,4,10,1,Defective,460.76
+2624,32,2,10,1,Changed Mind,451.74
+1421,17,2,3,1,Damaged,2.97
+1322,17,1,10,1,Changed Mind,450.43
+1804,23,1,10,1,Late Delivery,432.88
+6660,84,4,8,1,Defective,7.66
+1678,21,4,4,1,Wrong Item,5.53
+3429,43,1,2,3,Changed Mind,9.63
+6342,80,2,10,1,Changed Mind,429.47
+1537,18,2,3,2,Changed Mind,6.1
+1895,24,3,4,1,Defective,5.3
+5905,74,5,7,1,Changed Mind,25.15
+6145,78,4,10,1,Defective,449.72
+3152,39,3,10,1,Defective,447.56
+5767,73,2,4,1,Changed Mind,5.56
+6139,78,2,3,2,Defective,5.92
+4790,59,2,1,2,Wrong Item,5.0
+5863,74,1,8,1,Wrong Item,7.58
+1635,20,2,10,1,Defective,436.74
+3488,44,2,6,1,Changed Mind,178.13
+5007,62,1,10,1,Wrong Item,458.5
+3771,46,1,10,1,Damaged,458.14
+1769,23,4,3,2,Defective,5.94
+2652,32,2,9,1,Damaged,9.37
+430,5,5,8,2,Changed Mind,14.92
+1424,17,2,4,3,Damaged,15.87
+6847,87,1,8,1,Late Delivery,7.73
+6014,75,3,7,1,Damaged,25.21
+6464,81,1,7,1,Damaged,24.14
+4216,52,1,10,1,Damaged,450.94
+2133,26,1,2,5,Defective,15.65
+2623,32,2,10,1,Damaged,440.42
+5310,67,1,1,1,Changed Mind,2.47
+3079,38,5,10,1,Wrong Item,442.17
+6319,80,3,1,1,Changed Mind,2.5
+38,1,1,5,1,Damaged,297.31
+6618,83,3,1,1,Late Delivery,2.47
+1546,19,3,10,1,Damaged,445.69
+7169,90,3,4,2,Wrong Item,11.0
+1957,24,4,10,1,Defective,456.0
+3263,40,2,3,1,Damaged,3.04
+1624,20,2,7,2,Defective,50.38
+2305,29,4,8,8,Damaged,58.64
+5355,67,4,10,1,Changed Mind,456.45
