@@ -1,0 +1,51 @@
+vehicle_id,license_plate,model,make,year,vehicle_type,last_updated_timestamp
+1,NXT-8646,Message,"Francis, Smith and Lee",2023,Hatchback,2025-09-02 06:05:20
+2,03S R43,Region,Lawson Group,2017,Sedan,2025-08-31 05:55:09
+3,SKO H06,Prepare,"Moreno, Ruiz and Barker",2023,Luxury,2025-08-30 05:07:29
+4,5R235,Pattern,"Welch, Martinez and Hendricks",2019,Van,2025-09-09 05:52:10
+5,925A,Process,Rivera-Anderson,2014,Hatchback,2025-08-27 11:42:16
+6,6-1130V,On,Brown Ltd,2014,SUV,2025-09-06 06:37:52
+7,L25-TWN,Plan,"Gonzalez, Rios and Rios",2020,Sedan,2025-09-15 13:14:48
+8,GWY 958,Month,"Smith, Mckenzie and Bullock",2017,Sedan,2025-09-11 16:20:12
+9,4FG 919,Speak,"Rice, Barnes and Hernandez",2019,SUV,2025-09-11 02:43:13
+10,6FD 648,Religious,Schwartz and Sons,2017,SUV,2025-09-11 19:10:01
+11,0N 8334L,Name,Evans-King,2010,SUV,2025-09-10 19:40:04
+12,3YH 743,So,Martinez and Sons,2011,Sedan,2025-09-03 19:53:15
+13,ULA0960,Event,Reed Inc,2010,Sedan,2025-08-31 05:38:52
+14,982MCB,Road,Chavez Group,2014,Luxury,2025-08-25 11:03:53
+15,0I 6R0MOA,Item,Robbins LLC,2015,Sedan,2025-08-20 16:17:49
+16,6WJ63,Store,Johnson-Prince,2017,Van,2025-09-07 09:41:02
+17,542-VGUN,East,"Perez, Lee and Harris",2023,Sedan,2025-09-02 18:06:22
+18,RLY 8125,Low,"Luna, Bryant and Rhodes",2019,Luxury,2025-09-19 17:46:03
+19,JV-9841,Now,Lawrence Inc,2019,SUV,2025-08-24 06:13:32
+20,9U 7I8WLE,Own,"Webb, Fowler and Murray",2018,Luxury,2025-08-29 14:59:19
+21,JYI-465,Rule,Allen and Sons,2014,Sedan,2025-09-02 02:34:55
+22,53-FE88,Face,Stephenson-Robinson,2012,Hatchback,2025-08-30 05:46:20
+23,5T WT867,Information,Collins PLC,2013,Van,2025-09-09 17:04:46
+24,96-4009B,Question,Walker PLC,2023,Van,2025-08-28 20:18:45
+25,ZMM 744,Upon,Arellano-Williams,2016,Luxury,2025-08-27 22:33:12
+26,KE 35607,Go,Owens PLC,2021,Hatchback,2025-09-07 07:47:40
+27,602 CUA,Blood,Baker and Sons,2016,Van,2025-09-13 05:32:48
+28,UCT-785,Build,Sampson-Harrison,2010,Luxury,2025-08-21 12:41:00
+29,7W 2C1MWN,But,Garcia-Craig,2015,Hatchback,2025-09-12 05:34:31
+30,KBS5092,Care,Carter and Sons,2022,Hatchback,2025-08-27 04:57:47
+31,8ESI316,Enter,Martin and Sons,2023,Sedan,2025-09-09 11:06:50
+32,VQC N88,Consumer,Boyd-Cruz,2016,Hatchback,2025-09-20 01:23:10
+33,4596 PJ,Sort,Butler-Salinas,2019,Sedan,2025-09-20 08:41:13
+34,MQL 012,Kind,Collier-Baker,2016,SUV,2025-09-09 16:45:34
+35,487 MVB,South,"Gregory, Sanchez and Lee",2019,Sedan,2025-09-09 11:03:29
+36,6TU5286,Help,Summers-Foster,2022,Van,2025-09-03 16:13:47
+37,393 0841,Per,Palmer Ltd,2020,SUV,2025-09-07 09:56:14
+38,1W 5D5FFZ,Mission,Hill PLC,2015,Sedan,2025-09-16 17:24:54
+39,2V 58100,Well,Woods-Parks,2018,Sedan,2025-08-22 09:11:03
+40,FGE 827,Expert,Parsons Inc,2011,Hatchback,2025-09-16 16:04:50
+41,LO 3414,Drop,Cole Ltd,2021,Luxury,2025-09-14 11:29:26
+42,LB-9270,Government,"Gutierrez, Moreno and Davis",2023,SUV,2025-08-27 09:52:46
+43,6ID56,Call,Lewis PLC,2018,SUV,2025-09-12 18:28:24
+44,094 TEH,Court,Warner LLC,2020,SUV,2025-08-23 13:57:59
+45,AWZ2518,With,Roth-Rich,2016,Hatchback,2025-08-26 09:40:18
+46,715371,Not,Buck Inc,2013,SUV,2025-09-03 11:22:09
+47,GNN 071,Important,Silva-Rich,2011,Sedan,2025-08-25 03:58:55
+48,F22-KIU,From,Bass Inc,2011,Van,2025-09-02 18:18:20
+49,3298,Than,"Jones, Lewis and Gutierrez",2019,Van,2025-09-15 05:15:59
+50,7QR O68,Smile,"Blake, Stone and Ferguson",2010,Sedan,2025-08-24 04:00:11
