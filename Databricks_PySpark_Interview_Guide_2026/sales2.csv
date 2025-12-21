@@ -1,0 +1,11 @@
+OrderID,Customer,Item,Quantity,Price,OrderDate,Cancelled_Flag
+O2001,Customer_2,Mouse,2,1679.54,2025-08-02 01:38:00,1
+O2002,Customer_2,Monitor,1,121.69,2025-08-02 16:47:00,0
+O2003,Customer_1,Monitor,2,1729.39,2025-08-02 13:15:00,0
+O2004,Customer_5,Headphones,2,1341.42,2025-08-02 02:09:00,0
+O2005,Customer_1,Laptop,4,558.29,2025-08-02 16:34:00,0
+O2006,Customer_4,Keyboard,4,1827.75,2025-08-02 23:45:00,1
+O2007,Customer_2,Headphones,5,582.69,2025-08-02 02:07:00,1
+O2008,Customer_5,Laptop,5,1318.81,2025-08-02 21:02:00,0
+O2009,Customer_1,Keyboard,1,1278.13,2025-08-02 11:24:00,0
+O2010,Customer_3,Monitor,5,1135.39,2025-08-02 06:32:00,0

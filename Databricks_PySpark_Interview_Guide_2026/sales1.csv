@@ -1,0 +1,11 @@
+OrderID,Customer,Item,Quantity,Price,OrderDate
+O1001,Customer_4,Monitor,3,1901.7,2025-08-01 11:11:00
+O1002,Customer_2,Keyboard,1,1314.52,2025-08-01 01:10:00
+O1003,Customer_2,Monitor,1,498.44,2025-08-01 02:27:00
+O1004,Customer_1,Mouse,2,691.07,2025-08-01 00:59:00
+O1005,Customer_5,Laptop,5,1491.08,2025-08-01 02:51:00
+O1006,Customer_2,Headphones,1,1623.36,2025-08-01 10:47:00
+O1007,Customer_1,Keyboard,1,1465.93,2025-08-01 06:15:00
+O1008,Customer_1,Headphones,1,994.24,2025-08-01 17:28:00
+O1009,Customer_3,Keyboard,3,99.16,2025-08-01 18:48:00
+O1010,Customer_4,Headphones,5,1712.9,2025-08-01 05:56:00
